@@ -1,0 +1,33 @@
+#table {
+    margin: 1vw;
+}
+
+button {
+    margin-left: 1vw !important;
+}
+
+h1 {
+    margin: 1vw !important;
+}
+
+#header {
+    padding-left: 1vw;
+}
+
+@media only screen and (max-width: 980px) {
+    #header {
+        margin: 1vw;
+    }
+
+    h1 {
+        font-size: 38px !important;
+    }
+
+    #table {
+        margin: 2vw;
+    }
+
+    button {
+        margin-left: 2vw !important;
+    }
+}
